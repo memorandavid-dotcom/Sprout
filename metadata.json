@@ -1,0 +1,6 @@
+{
+  "name": "Sprout",
+  "description": "Student wellness, lock-in focus timer, hydration & meal alarms, and daily food budget tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
